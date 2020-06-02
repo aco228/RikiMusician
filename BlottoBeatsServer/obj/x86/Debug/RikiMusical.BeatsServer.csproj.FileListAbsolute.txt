@@ -1,0 +1,2 @@
+C:\Users\aleks\Desktop\music\BlottoBeats\BlottoBeatsServer\obj\x86\Debug\RikiMusical.BeatsServer.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\BlottoBeatsServer\obj\x86\Debug\RikiMusical.BeatsServer.csproj.CoreCompileInputs.cache

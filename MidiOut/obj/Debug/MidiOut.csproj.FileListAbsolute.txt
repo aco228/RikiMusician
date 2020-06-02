@@ -1,0 +1,14 @@
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\MidiOut.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\MidiOut.pdb
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Networking.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Sanford.Collections.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Sanford.Multimedia.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Sanford.Multimedia.Midi.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Sanford.Multimedia.Timers.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Sanford.Threading.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\bin\Debug\Networking.pdb
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\obj\Debug\MidiOut.csprojAssemblyReference.cache
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\obj\Debug\MidiOut.csproj.CoreCompileInputs.cache
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\obj\Debug\MidiOut.csproj.CopyComplete
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\obj\Debug\MidiOut.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\MidiOut\obj\Debug\MidiOut.pdb

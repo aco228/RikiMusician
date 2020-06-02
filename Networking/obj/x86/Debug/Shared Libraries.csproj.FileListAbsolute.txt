@@ -1,0 +1,6 @@
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\bin\x86\Debug\Networking.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\bin\x86\Debug\Networking.pdb
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\x86\Debug\Shared Libraries.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\x86\Debug\Shared Libraries.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\x86\Debug\Networking.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\x86\Debug\Networking.pdb

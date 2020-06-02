@@ -1,0 +1,24 @@
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\bin\Debug\Networking.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\bin\Debug\Networking.pdb
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\obj\Debug\Shared Libraries.csprojAssemblyReference.cache
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\obj\Debug\Shared Libraries.csproj.CoreCompileInputs.cache
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\obj\Debug\Networking.dll
+C:\Users\ako\Desktop\dalibor\BlottoBeats-master\BlottoBeats\Networking\obj\Debug\Networking.pdb
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\bin\Debug\Networking.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\bin\Debug\Networking.pdb
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\Debug\Shared Libraries.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\Debug\Shared Libraries.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\Debug\Networking.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\Networking\obj\Debug\Networking.pdb
+E:\Aco\BlottoBeats\Networking\bin\Debug\Networking.dll
+E:\Aco\BlottoBeats\Networking\bin\Debug\Networking.pdb
+E:\Aco\BlottoBeats\Networking\obj\Debug\Shared Libraries.csprojAssemblyReference.cache
+E:\Aco\BlottoBeats\Networking\obj\Debug\Shared Libraries.csproj.CoreCompileInputs.cache
+E:\Aco\BlottoBeats\Networking\obj\Debug\Networking.dll
+E:\Aco\BlottoBeats\Networking\obj\Debug\Networking.pdb
+E:\RikiMusician\Networking\bin\Debug\Networking.dll
+E:\RikiMusician\Networking\bin\Debug\Networking.pdb
+E:\RikiMusician\Networking\obj\Debug\Shared Libraries.csprojAssemblyReference.cache
+E:\RikiMusician\Networking\obj\Debug\Shared Libraries.csproj.CoreCompileInputs.cache
+E:\RikiMusician\Networking\obj\Debug\Networking.dll
+E:\RikiMusician\Networking\obj\Debug\Networking.pdb

@@ -1,0 +1,9 @@
+E:\RikiMusician\RikiMusicial.Collector\bin\Debug\RikiMusicial.Collector.exe.config
+E:\RikiMusician\RikiMusicial.Collector\bin\Debug\RikiMusicial.Collector.exe
+E:\RikiMusician\RikiMusicial.Collector\bin\Debug\RikiMusicial.Collector.pdb
+E:\RikiMusician\RikiMusicial.Collector\obj\Debug\RikiMusicial.Collector.csprojAssemblyReference.cache
+E:\RikiMusician\RikiMusicial.Collector\obj\Debug\RikiMusicial.Collector.csproj.CoreCompileInputs.cache
+E:\RikiMusician\RikiMusicial.Collector\obj\Debug\RikiMusicial.Collector.exe
+E:\RikiMusician\RikiMusicial.Collector\obj\Debug\RikiMusicial.Collector.pdb
+E:\RikiMusician\RikiMusicial.Collector\bin\Debug\VersOne.Epub.dll
+E:\RikiMusician\RikiMusicial.Collector\obj\Debug\RikiMusicial.Collector.csproj.CopyComplete

@@ -1,0 +1,7 @@
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\bin\Debug\RikiMusical.Lyrics.exe.config
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\bin\Debug\RikiMusical.Lyrics.exe
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\bin\Debug\RikiMusical.Lyrics.pdb
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\obj\Debug\RikiMusical.Lyrics.csprojAssemblyReference.cache
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\obj\Debug\RikiMusical.Lyrics.csproj.CoreCompileInputs.cache
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\obj\Debug\RikiMusical.Lyrics.exe
+E:\Aco\BlottoBeats\RikiMusical.Lyrics\obj\Debug\RikiMusical.Lyrics.pdb

@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\MidiOut.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\MidiOut.pdb
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Networking.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Sanford.Collections.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Sanford.Multimedia.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Sanford.Multimedia.Midi.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Sanford.Multimedia.Timers.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Sanford.Threading.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\bin\x86\Debug\Networking.pdb
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\obj\x86\Debug\RikiMusical.MidiOut.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\obj\x86\Debug\RikiMusical.MidiOut.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\obj\x86\Debug\RikiMusical.MidiOut.csproj.CopyComplete
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\obj\x86\Debug\MidiOut.dll
+C:\Users\aleks\Desktop\music\BlottoBeats\MidiOut\obj\x86\Debug\MidiOut.pdb
